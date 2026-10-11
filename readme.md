@@ -26,7 +26,7 @@ This project leverages standard frontend web technologies for performance and cl
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 ```text
 War/
 ├── index.html          # Main portfolio entrance page
@@ -37,7 +37,7 @@ War/
 ├── README.md           # Project documentation (This file)
 └── LICENSE             # Open-source MIT license details
 ```
-## 🚀 Getting Started
+##  Getting Started
 
 Follow these steps to clone this project locally and view the web portfolio on your computer.
 
@@ -58,7 +58,7 @@ You only need a modern web browser (like Google Chrome, Microsoft Edge, or Mozil
    * If you use VS Code, run `code .` and launch it using the **Live Server** extension.
 
 ---
-## 🤝 Contributing
+##  Contributing
 Contributions are welcome! If you have suggestions for improvements, better asset compression configurations, or additional historical chapters, please follow these steps:
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
@@ -66,15 +66,15 @@ Contributions are welcome! If you have suggestions for improvements, better asse
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📜 License
+##  License
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
-## 👤 Contact & Socials
+##  Contact & Socials
 
 *   **Developer:** Vivian Nganga
 *   **GitHub Profile:** [@ngangavivian53-oss](https://github.com)
 *   **Project Repository:** [https://github.com/War](https://github.com/War)
 *   **Email:** [ngangavivian53-oss@gmail.com](mailto:ngangavivian53-oss@gmail.com)
-Use code with caution.
+
 
