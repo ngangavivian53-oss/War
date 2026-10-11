@@ -26,3 +26,14 @@ This project leverages standard frontend web technologies for performance and cl
 
 ---
 
+## 📂 Project Structure
+```text
+War/
+├── index.html          # Main portfolio entrance page
+├── assets/
+│   ├── css/
+│   │   └── style.css   # Custom CSS style sheets
+│   └── images/         # Compressed historical portfolio assets
+├── README.md           # Project documentation (This file)
+└── LICENSE             # Open-source MIT license details
+```
