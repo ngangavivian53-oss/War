@@ -53,7 +53,20 @@ h2 {
     display: flex;
     gap: 15px;
 }
+.social-btn {
+    color: #121212;
+    background-color: #e0e0e0;
+    text-decoration: none;
+    padding: 8px 16px;
+    border-radius: 4px;
+    font-size: 0.9rem;
+    font-weight: bold;
+    transition: background 0.2s ease;
+}
 
+.social-btn:hover {
+    background-color: #b5b5b5;
+}
 
 
  
