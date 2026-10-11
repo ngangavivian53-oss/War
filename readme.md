@@ -37,3 +37,19 @@ War/
 ├── README.md           # Project documentation (This file)
 └── LICENSE             # Open-source MIT license details
 ```
+## 🚀 Getting Started
+
+Follow these steps to clone this project locally and view the web portfolio on your computer.
+
+### Prerequisites
+You only need a modern web browser (like Google Chrome, Microsoft Edge, or Mozilla Firefox) and Git installed on your machine.
+
+### Installation & Local Setup
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com
+   ```
+2. **Navigate into the project directory:**
+   ```bash
+   cd War
+   ```
