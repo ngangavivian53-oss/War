@@ -53,3 +53,15 @@ You only need a modern web browser (like Google Chrome, Microsoft Edge, or Mozil
    ```bash
    cd War
    ```
+3. **Open the project:**
+   * Double-click the `index.html` file in your file explorer, OR
+   * If you use VS Code, run `code .` and launch it using the **Live Server** extension.
+
+---
+## 🤝 Contributing
+Contributions are welcome! If you have suggestions for improvements, better asset compression configurations, or additional historical chapters, please follow these steps:
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
