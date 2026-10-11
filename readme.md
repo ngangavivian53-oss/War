@@ -70,4 +70,11 @@ Contributions are welcome! If you have suggestions for improvements, better asse
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
+## 👤 Contact & Socials
+
+*   **Developer:** Vivian Nganga
+*   **GitHub Profile:** [@ngangavivian53-oss](https://github.com)
+*   **Project Repository:** [https://github.com/War](https://github.com/War)
+*   **Email:** [ngangavivian53-oss@gmail.com](mailto:ngangavivian53-oss@gmail.com)
+Use code with caution.
 
