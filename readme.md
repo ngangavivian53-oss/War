@@ -17,3 +17,12 @@ An exploration of the geopolitical, technological, and human shifts that defined
 *   **Semantic Data Structures:** Clean component architectures using isolated containers for modular navigation and socials.
 
 ---
+
+## 🛠️ Built With
+This project leverages standard frontend web technologies for performance and clean semantic structure:
+*   **HTML5** - Semantic structure and layout containers (`<nav>`, `<section>`, `<div>`)
+*   **CSS3** - Flexbox architecture for responsive galleries and custom hover interactions
+*   **Markdown** - Documentation and portfolio content structures
+
+---
+
