@@ -8,7 +8,7 @@
 
 ---
 
-## 📸 Project Overview
+##  Project Overview
 An exploration of the geopolitical, technological, and human shifts that defined the 20th century through the lens of global conflict. This web-based photography portfolio project analyzes the interconnected timelines of World War I and World War II. It examines how industrial-scale warfare dismantled empires, accelerated technological innovation, and established the modern international order, while highlighting the lasting socio-economic legacies that shape contemporary global relations.
 
 ### Key Features
@@ -18,7 +18,7 @@ An exploration of the geopolitical, technological, and human shifts that defined
 
 ---
 
-## 🛠️ Built With
+##  Built With
 This project leverages standard frontend web technologies for performance and clean semantic structure:
 *   **HTML5** - Semantic structure and layout containers (`<nav>`, `<section>`, `<div>`)
 *   **CSS3** - Flexbox architecture for responsive galleries and custom hover interactions
@@ -76,5 +76,14 @@ Distributed under the MIT License. See `LICENSE` for more information.
 *   **GitHub Profile:** [@ngangavivian53-oss](https://github.com)
 *   **Project Repository:** [https://github.com/War](https://github.com/War)
 *   **Email:** [ngangavivian53-oss@gmail.com](mailto:ngangavivian53-oss@gmail.com)
+
+## 🛠️ Technologies Used
+
+*   **HTML5** – Used for semantic page structure, including layout containers like `<nav>`, `<section>`, and custom `<div>` blocks.
+*   **CSS3** – Used for styling the user interface, implementing Flexbox for the gallery grids, and adding responsive hover effects for social links.
+*   **Git & GitHub** – Used for local version control, branch management (`main`), and hosting the remote repository.
+*   **Markdown** – Used for creating clear, readable project documentation and portfolio outlines.
+
+---
 
 
