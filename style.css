@@ -1,6 +1,6 @@
 body {
-    background-color: #9e9797;
-    color: #e0e0e0;
+    background: linear-gradient(135deg, #f4efe8 0%, #efe5da 35%, #e7d9c7 100%);
+    color: #2d241d;
     font-family: 'Georgia', serif;
     line-height: 1.6;
     margin: 0;
@@ -14,13 +14,15 @@ body {
 }
 
 h2 {
-    color: #f5f5f5;
+    color: #8b5e3c;
     font-size: 2rem;
-    border-bottom: 1px solid #333;
+    border-bottom: 1px solid rgba(139, 94, 60, 0.45);
     padding-bottom: 10px;
+    letter-spacing: 0.04em;
 }
+
 .section-subtitle {
-    color: #a0a0a0;
+    color: #6f5648;
     font-style: italic;
     margin-bottom: 30px;
 }
@@ -37,14 +39,16 @@ h2 {
     width: 100%;
     height: 250px;
     object-fit: cover;
-    border-radius: 4px;
-    filter: grayscale(30%);
-    transition: transform 0.3s ease, filter 0.3s ease;
+    border-radius: 14px;
+    border: 1px solid rgba(107, 82, 63, 0.18);
+    filter: sepia(0.12) saturate(0.9);
+    transition: transform 0.35s ease, box-shadow 0.35s ease, filter 0.35s ease;
 }
+
 .image-grid img:hover {
-    transform: scale(1.03);
-    filter: grayscale(0%);
-    box-shadow: 0 10px 20px rgba(0,0,0,0.5);
+    transform: translateY(-4px);
+    filter: sepia(0.08) saturate(1.05);
+    box-shadow: 0 14px 24px rgba(77, 53, 35, 0.18);
 }
 
 /* Social Links Buttons */
@@ -52,22 +56,25 @@ h2 {
     margin-top: 20px;
     display: flex;
     gap: 15px;
+    flex-wrap: wrap;
 }
+
 .social-btn {
-    color: #121212;
-    background-color: #e0e0e0;
+    color: #fffdf9;
+    background: linear-gradient(135deg, #9a6b45 0%, #c9a76f 100%);
     text-decoration: none;
-    padding: 8px 16px;
-    border-radius: 4px;
+    padding: 10px 18px;
+    border-radius: 999px;
     font-size: 0.9rem;
     font-weight: bold;
-    transition: background 0.2s ease;
+    letter-spacing: 0.03em;
+    box-shadow: 0 8px 18px rgba(154, 107, 69, 0.25);
+    transition: transform 0.2s ease, box-shadow 0.2s ease, filter 0.2s ease;
 }
 
 .social-btn:hover {
-    background-color: #b5b5b5;
+    background: linear-gradient(135deg, #7a4f38 0%, #d6b987 100%);
+    transform: translateY(-2px);
+    box-shadow: 0 10px 22px rgba(122, 79, 56, 0.28);
+    filter: brightness(1.03);
 }
-
-
- 
-  
